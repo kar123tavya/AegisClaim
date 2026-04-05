@@ -158,8 +158,8 @@ Multi-scenario appeal analysis computed even without LLM:
 
 ### 1 — Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/aegisclaim-ai.git
-cd aegisclaim-ai
+git clone https://github.com/kar123tavya/AegisClaim.git
+cd AegisClaim
 ```
 
 ### 2 — Create Virtual Environment
