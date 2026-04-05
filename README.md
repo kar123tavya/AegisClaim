@@ -14,6 +14,25 @@ Insurance claim processing is notoriously slow and opaque. Patients receive reje
 ## Solution: AegisClaim AI
 
 AegisClaim AI is a production-grade, end-to-end autonomous claim settlement platform that:
+## Demo
+![Demo](frontend/assets/AegisClaim.gif)
+
+## Screenshots
+
+### Claim Submission
+![Upload](frontend/assets/Evaluation.jpeg)
+
+### Decision Output
+![Decision](frontend/assets/Line_Items.jpeg)
+
+### Explainability (Policy Citations)
+![Citations](frontend/assets/Policy_Citations.jpeg)
+
+### Fraud Analysis
+![Fraud](frontend/assets/Fraud_Risk.jpeg)
+
+### What-If Simulation
+![WhatIf](frontend/assets/What-If.jpeg)
 
 | Capability | Implementation |
 |---|---|
@@ -29,7 +48,6 @@ AegisClaim AI is a production-grade, end-to-end autonomous claim settlement plat
 ---
 
 ## Architecture
-
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                         AEGISCLAIM AI                           │
