@@ -1,0 +1,36 @@
+# AegisClaim AI - Dependencies
+# Core Framework
+fastapi>=0.115.0
+uvicorn[standard]>=0.34.0
+python-multipart>=0.0.17
+pydantic>=2.10.0
+pydantic-settings>=2.7.0
+
+# OCR & Document Processing
+pytesseract>=0.3.13
+Pillow>=11.0.0
+opencv-python-headless>=4.10.0
+pdfplumber>=0.11.0
+PyPDF2>=3.0.0
+pdf2image>=1.17.0
+reportlab>=4.2.0
+
+# AI/NLP & Embeddings
+google-generativeai>=0.8.0
+sentence-transformers>=3.3.0
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-google-genai>=2.0.0
+
+# Vector Database
+faiss-cpu>=1.13.0
+
+# ML & Data
+scikit-learn>=1.5.0
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Security & Utilities
+python-dotenv>=1.0.0
+aiofiles>=24.1.0
+jinja2>=3.1.0
