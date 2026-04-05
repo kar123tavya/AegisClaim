@@ -328,7 +328,7 @@ GET /health
 
 ## Repository Structure
 ```
-aegisclaim-ai/
+AegisClaim/
 ├── app/
 │   ├── api/v1/          # FastAPI route handlers
 │   ├── core/            # Config, DB, security
@@ -346,6 +346,7 @@ aegisclaim-ai/
 │   ├── index.html       # Single-page app
 │   ├── app.js           # All UI logic
 │   └── styles.css       # Premium CSS design system
+|   └── assets/          # Contains all UI images & gifs
 ├── scripts/
 │   └── generate_samples.py  # Synthetic PDF generator
 ├── data/
